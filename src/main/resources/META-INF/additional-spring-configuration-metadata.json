@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "sonar.java.binaries",
+    "type": "java.lang.String",
+    "description": "A description for 'sonar.java.binaries'"
+  },
+  {
+    "name": "sonar.language",
+    "type": "java.lang.String",
+    "description": "A description for 'sonar.language'"
+  },
+  {
+    "name": "sonar.sources",
+    "type": "java.lang.String",
+    "description": "A description for 'sonar.sources'"
+  }
+]}
